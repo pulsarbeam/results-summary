@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Hanken Grotesk';
+  src: url('../public/results-summary-component-main/assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
+}
